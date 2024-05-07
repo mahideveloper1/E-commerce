@@ -389,7 +389,7 @@ function Checkout() {
                           Cash
                         </label>
                       </div>
-                      <div className="flex items-center gap-x-3">
+                      {/* <div className="flex items-center gap-x-3">
                         <input
                           id="card"
                           onChange={handlePayment}
@@ -405,7 +405,7 @@ function Checkout() {
                         >
                           Card Payment
                         </label>
-                      </div>
+                      </div> */}
                     </div>
                   </fieldset>
                 </div>
